@@ -1,6 +1,6 @@
-##Proyecto_Final-Bioinf2017-II
+## Proyecto_Final-Bioinf2017-II
 
-####AVANCES 3
+#### AVANCES 3
 
 **<span style="color:blue">Verónica Lizbeth González Valdez**
 
