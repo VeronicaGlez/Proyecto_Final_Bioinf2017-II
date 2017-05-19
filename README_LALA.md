@@ -2,7 +2,7 @@
 
 Este repositorio contiene el trabajo final del curso **"Introducción a la bioinformática e investigación reproducible para análisis genéticos"**. 
 
-En este proyecto se utilizan 12,913 Snps, de pajáro bobo patas azules (Sula nebouxii), para determinar los índices de diversidad genética, posible estructura poblacional y SNPs candidatos a selección, para distintas categorías de edad, en la población de Isla Isabel, México.
+En este proyecto se utilizaron 12,913 Snps, de pajáro bobo patas azules (Sula nebouxii), para determinar la Heterocigosis y algunos índices de diversidad genética, posible estructura poblacional y SNPs candidatos a selección, para distintas categorías de edad, en la población de Isla Isabel, México.
 
 Este repositorio está dividido en 4 carpetas principales:
 
