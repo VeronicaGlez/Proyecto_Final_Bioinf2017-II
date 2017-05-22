@@ -1,4 +1,4 @@
-#README
+# README
 
 Este repositorio contiene el trabajo final del curso **"Introducción a la bioinformática e investigación reproducible para análisis genéticos"**. 
 
